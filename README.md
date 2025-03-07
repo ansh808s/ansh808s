@@ -11,5 +11,5 @@
 ## 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ansh808s&theme=gotham&show_icons=true&count_private=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ansh808s&theme=gotham" height="165" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=ansh808s&theme=gotham&show_icons=true&count_private=true" height="165" />
 </p>
